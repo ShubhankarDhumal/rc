@@ -1,3 +1,4 @@
+aria2p
 aiohttp
 aiofiles
 aioshutil
